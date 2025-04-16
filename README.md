@@ -1,2 +1,1 @@
-# Fivem-Watermark
-I have just made a simple standalone fivem watermark script. Read the TUTO.README file first.
+Gå ind i html folderen og put et billed ind der heder "logo.png" for at få logo ind.
